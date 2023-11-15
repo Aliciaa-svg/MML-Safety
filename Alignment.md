@@ -9,3 +9,11 @@ Artificial Intelligence, Value Alignment and Rationality [[pdf](https://link.spr
 Aligning Large Language Models with Human: A Survey [[pdf](https://arxiv.org/pdf/2307.12966.pdf)]
 
 Multimodal Knowledge Alignment with Reinforcement Learning [[pdf](https://arxiv.org/pdf/2205.12630.pdf)]
+
+Methodological reflections for AI alignment research using human feedback [[pdf](https://arxiv.org/ftp/arxiv/papers/2301/2301.06859.pdf)]
+
+Large Language Model Alignment: A Survey [[pdf](https://arxiv.org/pdf/2309.15025.pdf)]
+
+
+
+
